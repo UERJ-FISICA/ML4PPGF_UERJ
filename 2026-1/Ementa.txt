@@ -1,0 +1,30 @@
+Machine Learning PPGF -- Semestre 2026-1
+
+    Parte I
+● Introdução à estatística para análise de dados:
+● Conceitos básicos de estatística e probabilidades.
+● Estimativas de parâmetros e intervalos de confiança.
+● Testes de hipóteses: likelihood ratio, χ2 , goodness-of-fit e p-value.
+
+Parte II
+● Introdução à aprendizado de máquinas e aplicações com Python
+● O qué é aprendizado de máquina (ML) e por quê usar?
+● Sistemas de aprendizado de máquina: supervisado/não supervisado.
+● Desafios no aprendizado de máquina: qualidade dos dados, overfitting, underfitting
+● Testes e validação de modelos
+● Classificadores, SVM, Decision trees, Random forests, Dimensional reduction
+● Projetos e exercícios de ML usando Scikit Learn
+
+Parte III
+● Redes neurais em Python usando Keras e TensorFlow
+● O quê são redes neurais (NN)?
+● Tipos de redes neurais : feed forward ou recurrent
+● Paradigmas de aprendizado: supervisionado, não supervisionado ou reforçado
+● Técnicas de aprendizado: Gradient Descent, Backpropagation, Regularização.
+● Arquiteturas de redes neurais profundas (DNN) : CNN,RNN, LSTM, Autoencoders, etc.
+
+Bibliografia:
+1. Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and
+Techniques to Build Intelligent System, Aurélien Géron, 2017
+2. Statistical data analysis, Glen Cowan, 1998.
+3. Statistical Methods In Experimental Physics, Frederick James, 2006.
